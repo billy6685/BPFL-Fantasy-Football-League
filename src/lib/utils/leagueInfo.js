@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2016, the BPFL began as regular league amongst a small group of friends. In 2020, the league converted into a full-fledged Empire-Keeper league. Each year, the managers compete to win the Butt Dart Bowl and avoid the ever-humiliating Bears Den Bowl.</p>
+  <p>Some owners draft immediate win-now teams, while others began the slow process of building a juggernaut keeper team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some owners fled from injuries and down years, others bought the dip and built for the future.</p>
+  <p>In astounding commitment to building a dynasty franchise, many of the owners have begun to have kids and groom the next generation of owners to take over their teams. The mini owners are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can succesfully type out a coherent trade offer.</p>
+  <p>In contrast to the addition of the mini owners, some managers have also left but, despite that, the league has only gotten stronger. With more passionate mowners, the competition has become more intense and more difficult each year.</p>
+  <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion owner also walks away with $600 and hardware, while the last place owner gets the punishment they derserve.</p>
 `;
 
 /*   STEP 3   */
